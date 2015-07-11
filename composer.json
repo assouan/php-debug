@@ -1,0 +1,17 @@
+{
+  "name": "assouan/php-dev",
+  "description": "debug and test class",
+  "version": "1.0.0",
+  "type": "library",
+  "keywords": [
+    "php",
+    "dev",
+    "debug",
+    "test"
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
